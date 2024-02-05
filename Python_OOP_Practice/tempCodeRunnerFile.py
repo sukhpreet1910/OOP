@@ -1,2 +1,1 @@
-for book in book_instances:
-#     book.display_info()
+print("Goodbye! Have a nice day.")
